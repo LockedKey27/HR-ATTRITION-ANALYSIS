@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.db
+.env
+.vscode/
+WA_Fn-UseC_-HR-Employee-Attrition.csv
